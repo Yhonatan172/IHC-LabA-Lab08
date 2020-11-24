@@ -57,6 +57,10 @@ flutter:
     - assets/images/imagen2.jpg
     - assets/images/imagen3.jpeg
     - assets/images/imagen4.jpeg
+    - assets/images/imagen5.jpeg
+    - assets/images/imagen6.jpeg
+    - assets/images/imagen7.jpeg
+    - assets/images/imagen8.jpeg
     - assets/images/fondoPerfil.jpg
     - assets/images/fondoPerfil2.jpg
     - assets/images/user.jpg

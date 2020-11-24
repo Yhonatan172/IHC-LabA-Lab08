@@ -283,6 +283,26 @@ class ContenedorPublicaciones extends StatelessWidget {
             imgUser: "assets/images/james.jpg",
             nameUser: 'james',
           ),
+          Publicacion(
+            imag: "assets/images/imagen5.jpeg",
+            imgUser: "assets/images/john.jpg",
+            nameUser: 'john',
+          ),
+          Publicacion(
+            imag: "assets/images/imagen6.jpeg",
+            imgUser: "assets/images/steven.jpg",
+            nameUser: 'steven',
+          ),
+          Publicacion(
+            imag: "assets/images/imagen7.jpeg",
+            imgUser: "assets/images/olivia.jpg",
+            nameUser: 'olivia',
+          ),
+          Publicacion(
+            imag: "assets/images/imagen8.jpeg",
+            imgUser: "assets/images/user.jpg",
+            nameUser: 'Yhona',
+          ),
         ],
       ),
     );
